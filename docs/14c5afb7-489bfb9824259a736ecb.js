@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{"8DwP":function(t,a,n){"use strict";n.d(a,"a",(function(){return i}));var e=n("yvD/"),i=function(t){return Object(e.a)({tag:"svg",attr:{viewBox:"0 0 512 512"},child:[{tag:"path",attr:{d:"M32 96v64h448V96H32zm0 128v64h448v-64H32zm0 128v64h448v-64H32z"}}]})(t)};i.displayName="GiHamburgerMenu"}}]);
-//# sourceMappingURL=14c5afb7-489bfb9824259a736ecb.js.map
