@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{w2l6:function(t,e,o){"use strict";o.r(e),o.d(e,"default",(function(){return i}));o("Iz2L");var n=o("Wbzz"),u=o("qR+X"),c=o("tNL2"),d=o("r605");function i(){return Object(d.d)(u.a,{title:"Page not found!"},Object(d.d)(c.a,{title:"404: Not found"}),Object(d.d)("p",null,"Wow!! you just hit a route that doesn't exist!"),Object(d.d)("p",null,"If you'd like to go back to homepage, ",Object(d.d)(n.Link,{to:"/"},"click here"),"."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-4914e6738981aea2d7e7.js.map
